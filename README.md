@@ -16,3 +16,7 @@ Contact - For what ever reason you need to contact us please do so!
 Submit your group Idea- if you have a idea that we could all do next time we hang out please share!
 
 Submit your availability- Please share what dates you  would like to meet up for
+
+We need more directors so please apply!
+if you would like to contribute, please join us & Apply!
+If you think we could be a good fit for you,in terms of our services please apply!
