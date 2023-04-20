@@ -24,5 +24,6 @@ If you think we could be a good fit for you,in terms of our services please appl
 We are trying to remain flexible to everyone's demands, as some may need something as simple as their routine being printed out once a day or multiple times threw out the day, and some need more complex systems that manage business decisions for them for their small business running out of their home.
 
 Day Program
+
 When the pandemic was really going I noticed alot of our guys were doing to these virtual day programs and I was able to see what was missing, and I am aiming to add to what they achieved by adding tools that they were missing to provide a more one on one experience.
 
