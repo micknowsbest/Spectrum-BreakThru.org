@@ -20,3 +20,5 @@ Submit your availability- Please share what dates you  would like to meet up for
 We need more directors so please apply!
 if you would like to contribute, please join us & Apply!
 If you think we could be a good fit for you,in terms of our services please apply!
+
+We are trying to remain flexible to everyone's demands, as some may need something as simple as their routine being printed out once a day or multiple times threw out the day, and some need more complex systems that manage business decisions for them for their small business running out of their home.
