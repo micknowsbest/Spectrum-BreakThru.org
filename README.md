@@ -27,3 +27,4 @@ Day Program
 
 When the pandemic was really going I noticed alot of our guys were doing to these virtual day programs and I was able to see what was missing, and I am aiming to add to what they achieved by adding tools that they were missing to provide a more one on one experience.
 
+Our mission is to empower individuals with disabilities by providing them with the necessary tools and resources to achieve their full potential. We believe that every person, regardless of their abilities, deserves the opportunity to thrive and contribute to their community. Through education, advocacy, and support, we strive to break down barriers and create a more inclusive society. Our goal is to promote independence, self-determination, and a sense of belonging for all individuals with disabilities.
