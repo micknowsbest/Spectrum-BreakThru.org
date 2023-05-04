@@ -1,1 +1,16 @@
-If your interested in Time lapse camera this is where you go 
+If your interested in Time lapse camera just upload the config files to your Arduino IDE compiler
+
+You will need to make some changes to allow the Arduino IDE to recognize the ESP32-CAM. First, open Preferences from the File menu. Where it says Additional 
+Boards Manager URLs, paste in the following line:https://dl.espressif.com/dl/package_esp32_index.json
+
+Then, click OK.
+
+Now, open the Tools menu and hover your mouse over the menu item that starts with Board: (it may be something like Board: Arduino Uno). From the submenu that appears, select Boards Manager.
+
+This will bring up a new window with a search bar at the top. Type "ESP32" in the search bar. Doing so should allow you to select esp32 by Espressif Systems. Click Install. When the download finishes, click OK to exit the Boards Manager.
+
+Now, return to the Tools menu and again open the submenu that starts with the word Board. This time, you should see an ESP32 Arduino item that was not there before. This is a submenu with a long list of boards names. Find AI Thinker ESP32-CAM and select that.
+
+That's it, the Arduino IDE is now configured for the ESP32-CAM!
+
+https://www.makeuseof.com/how-to-capture-a-time-lapse-using-the-esp32-cam/
