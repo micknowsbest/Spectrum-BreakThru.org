@@ -1,1 +1,1 @@
-
+ If you want to change the timeing interveral, edit the number on the line that reads #define MINUTES_BETWEEN_PHOTOS 30.
