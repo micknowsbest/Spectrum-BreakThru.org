@@ -10,13 +10,15 @@ and then select Remote Desktop Connection
 
 -Then you want to hit show more options : and go to local resources then at the bottem you will see local devices and resources and click more.
 -Check mark "other supported plug and play pnp devices" and " other supported remote fx usb devices" if you have that option avaliable.
--Go back to general tab and in the computer field type: rdp.norccs.com  and for the username type : PC14U2070\YOURUSERNAMEHERE
+-Go back to general tab and in the computer field type: rdp.norccs.com  for computer 1 or rdp.norccs.com:3390 for computer 2
 -Then you can click " Allow me to save credentials" if your on your personal computer. 
 
-Then a window with the remote desktop should apear. 
+Then a window with the remote desktop should apear. Login with the credentials provided 
 
-Your username should be populated and all you need to do next is type your password in .
 
 Thank You and let me know if you need any help .
 
 Mike
+
+TLDR:
+ rdp.norccs.com  for computer 1 or rdp.norccs.com:3390 for computer 2
