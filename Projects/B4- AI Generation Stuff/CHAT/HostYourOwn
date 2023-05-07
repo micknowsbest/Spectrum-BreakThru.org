@@ -1,0 +1,9 @@
+Your going to need a powerfull computer to run this and its prefered that you have a GPU (Graphics Card) 
+Here is a video you can follow : https://www.youtube.com/watch?v=FOyqcETVUCs&t=44s
+
+Its little bit of a process to get this hosted but your going to need to download a few things.
+Platform
+https://github.com/oobabooga/text-generation-webui
+Updated Database
+https://huggingface.co/anon8231489123/vicuna-13b-GPTQ-4bit-128g
+anon8231489123/vicuna-13b-GPTQ-4bit-128g
