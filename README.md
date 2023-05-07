@@ -5,7 +5,7 @@ Welcome to Redding California!
 
 We're a social group wanting to share experiences and memory's with each other. We strive to help Individuals with diverse abilities to interact with one another to gain independence in group settings.
 
-There are a few links at the top of the page:
+There are a few links at the top of our website at https://spectrumbreakthru.org we try to copy the format to github and vise verse:
 
 Home - Take you to the Home page
 
