@@ -1,19 +1,19 @@
-We Understand that sometimes the little computers we provide arn't powerfull enough to run some programs. 
-That said we enable you to be able to RemoteDesktop into one of our powerfull computers.
+We understand that sometimes the little computers we provide aren't powerful enough to run some programs. 
+That said, we enable you to be able to Remote Desktop into one of our powerful computers.
 
-In order to use a controler you will need to install something called a driver on your computer : 
+In order to use a controller, you will need to install something called a driver on your computer : 
 https://github.com/microsoft/RdpGamepad
 https://github.com/microsoft/RdpGamepad/releases/download/v1.0.2/RdpGamepadClientInstall-1.0.2.exe
 
-To remote in go to remote desktop on your computer. In the search box on the taskbar, type Remote Desktop Connection,
+To remote in, go to remote desktop on your computer. In the search box on the taskbar, type Remote Desktop Connection,
 and then select Remote Desktop Connection
 
--Then you want to hit show more options : and go to local resources then at the bottem you will see local devices and resources and click more.
--Check mark "other supported plug and play pnp devices" and " other supported remote fx usb devices" if you have that option avaliable.
+-Then you want to hit show more options : and go to local resources, then at the bottom you will see local devices and resources and click more.
+-Check mark "others supported plug and play pnp devices" and " other supported remote fx usb devices" if you have that option available.
 -Go back to general tab and in the computer field type: rdp.norccs.com  for computer 1 or rdp.norccs.com:3390 for computer 2
--Then you can click " Allow me to save credentials" if your on your personal computer. 
+-Then you can click " Allow me to save credentials" if you're on your on personal computer. 
 
-Then a window with the remote desktop should apear. Login with the credentials provided 
+Then a window with the remote desktop should appear. Login with the credentials provided 
 
 
 Thank You and let me know if you need any help .
