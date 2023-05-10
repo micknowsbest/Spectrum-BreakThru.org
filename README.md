@@ -7,7 +7,7 @@ We're a social group wanting to share experiences and memory's with each other. 
 
 The specific purpose of Spectrum Break Thru is to Help Individuals with disability's integrate with the workforce
 
-There are a few links at the top of our website at https://spectrumbreakthru.org we try to copy the format to github and vise verse:
+There are a few links at the top of our website at https://spectrumbreakthru.org we try to copy the format to github and vise verse but find github is easier to organise thoguhts fast especialy with others:
 
 Home - Take you to the Home page
 
